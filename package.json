@@ -89,7 +89,7 @@
     "@angular/router": "^12.2.13",
     "@bitwarden/jslib-angular": "file:jslib/angular",
     "@bitwarden/jslib-common": "file:jslib/common",
-    "bootstrap": "4.6.0",
+    "bootstrap": "5.0.0",
     "braintree-web-drop-in": "1.33.1",
     "browser-hrtime": "^1.1.8",
     "core-js": "^3.11.0",
